@@ -10,8 +10,9 @@
 
 ### 最新
 
+* [词汇小结](http://www.luxiaoya.work:8081/articles/2019/10/10/1570669810030.html)
 * [SpringBoot读取配置文件](http://www.luxiaoya.work:8081/articles/2019/10/09/1570616336563.html)
-* [世界，你好！](http://www.luxiaoya.work:8081/hello-solo)
+* [一枚无知的篇章](http://www.luxiaoya.work:8081/hello-solo)
 
 
 
